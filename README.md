@@ -20,7 +20,7 @@ DWES directly supports the following SDGs:
 - **SDG 17**: Partnerships for the Goals
 
 ## System Architecture
-![System Flow Diagram](docs/system-overview-diagram.png)
+![System Flow Diagram](docs/system-flow-diagram.png)
 
 The system includes the following components:
 1. **Water Sources & IoT Sensors**: Monitors water levels and quality.
